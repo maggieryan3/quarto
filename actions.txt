@@ -1,0 +1,5 @@
+Play a piece
+Chose a piece
+QUARTO! 
+Exit
+Rules
